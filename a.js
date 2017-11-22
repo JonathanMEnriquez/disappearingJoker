@@ -7,7 +7,7 @@ $(document).ready(function(){
     $("#container").mouseleave(function(){
         // $(img).css("visibility", "visible");
 
-        alert("HAHAHAHAHA!!! YOU CAN'T GET RID OF ME THAT EASILY");
+        alert("BAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA!!!!!! YOU'LL NEVER BE RID OF ME!");
     });
 
     $("#container").mouseleave(function(){
